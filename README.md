@@ -69,13 +69,30 @@ A high-performance **React** application using **Leaflet.js** to render Seattle'
 | **Containerization** | Infrastructure | Docker, Docker-Compose |
 
 ---
-
 ## 👤 Project Leads
-| **Mohamed Raed Bouhali** | **Ilef Ben Hassen** |
-  <img src="raed.jpg" alt="HELLO WORLD, I'M RAED" width="400" height="350" >
-    <img src="ilef.jpg" alt="HELLO WORLD, I'M Ilef" width="400" height="350" >
 
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td align="center" width="45%">
+        <img src="raed.jpg" width="200" height="200" style="border-radius:50%; object-fit: cover; border: 3px solid #2ecc71;" alt="Mohamed Raed Bouhali"/><br />
+        <b>Mohamed Raed Bouhali</b><br />
+        <sub>Data Engineer & Backend Architect</sub><br />
+        <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="20"></a>
+        <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"></a>
+      </td>
+      <td align="center" width="45%">
+        <img src="ilef.jpg" width="200" height="200" style="border-radius:50%; object-fit: cover; border: 3px solid #3498db;" alt="Ilef Ben Hassen"/><br />
+        <b>Ilef Ben Hassen</b><br />
+        <sub>ML Specialist & Frontend Lead</sub><br />
+        <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="20"></a>
+        <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
+---
 
 ---
 
