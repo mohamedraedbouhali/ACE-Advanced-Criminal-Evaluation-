@@ -72,8 +72,10 @@ A high-performance **React** application using **Leaflet.js** to render Seattle'
 
 ## 👤 Project Leads
 | **Mohamed Raed Bouhali** | **Ilef Ben Hassen** |
-| :---: | :---: |
-| [![](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com) | [![](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com) |
+  <img src="raed.jpg" alt="HELLO WORLD, I'M RAED" width="400" height="350" >
+    <img src="ilef.jpg" alt="HELLO WORLD, I'M Ilef" width="400" height="350" >
+
+
 
 ---
 
