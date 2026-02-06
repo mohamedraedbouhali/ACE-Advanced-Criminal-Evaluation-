@@ -86,7 +86,7 @@ A high-performance **React** application using **Leaflet.js** to render Seattle'
         <b>Ilef Ben Hassen</b><br />
         <sub>ML Specialist & Frontend Lead</sub><br />
         <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="20"></a>
-        <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"></a>
+        <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ben-hassen-ilef-924859304/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"></a>
       </td>
     </tr>
   </table>
