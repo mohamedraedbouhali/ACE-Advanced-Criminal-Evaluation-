@@ -96,11 +96,6 @@ A high-performance **React** application using **Leaflet.js** to render Seattle'
 
 <br />
 
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="28">
-  <img src="https://forthebadge.com/images/badges/made-with-python.svg" height="28">
-  <img src="https://forthebadge.com/images/badges/uses-git.svg" height="28">
-</div>
 
 ---
 ---
