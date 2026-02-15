@@ -68,7 +68,7 @@ A high-performance BI interface built with **Streamlit** and **Folium**:
 ---
 
 ## 👩‍💻 5. Work Architecture
-
+<img src="Architecture.png" /> 
 
 The project follows a modular pipeline:
 1.  **Ingestion:** Cleaning and processing synthetic CSV data.
