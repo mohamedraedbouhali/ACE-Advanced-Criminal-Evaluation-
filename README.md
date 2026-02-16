@@ -39,6 +39,7 @@ A.C.E. creates a multidimensional feature set:
 * **Temporal Signals:** Extraction of cyclical trends (Hour, Day of Week, Month).
 * **Social Context:** Mapping employment status and social background to crime categories.
 * **Target Synthesis:** Generation of severity indices based on crime type.
+* * **Extraction Website:**  data.cityofchicago.org and  opendata.cityofnewyork.us 
 
 ### 🧠 Phase 2: Predictive Risk Engine
 The AI backend utilizes gradient-boosted decision trees to evaluate risk:
